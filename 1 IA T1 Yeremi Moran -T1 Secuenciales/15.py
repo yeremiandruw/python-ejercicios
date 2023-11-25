@@ -15,3 +15,5 @@ print("El capital total es: $" ,format(capitaltotal,".2f" ))
 print("Juan dio el", format (porcentajejuan,".2f"),"%")
 print("Rosa dio el", format (porcentajerosa,".2f"),"%")
 print("Daniel dio el", format (porcentajedaniel,".2f"),"%")
+
+# cambios a subir
